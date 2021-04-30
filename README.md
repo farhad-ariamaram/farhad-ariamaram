@@ -1,4 +1,4 @@
 Farhad Ariamaram </br>
 interested in Programming (Desktop, Web and Mobile) </br>
-C# .NET and ASP .NET MVC and Xamarin </br>
+.NET Core => ASP .NET MVC and Razor Page - Windows Applications</br>
 Email Address : farhad.ariamaram@gmail.com
