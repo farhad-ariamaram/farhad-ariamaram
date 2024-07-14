@@ -6,6 +6,6 @@ Over 5 years of experience in
 - SEO
 - Wordpress
   
-Also have some experience in
+Also have experience in
 - Blazor
 - Android(java)
